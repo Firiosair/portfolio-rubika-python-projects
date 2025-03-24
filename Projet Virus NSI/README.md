@@ -1,2 +1,8 @@
-# portfolio-rubika-python-projects
-Petit portfolio de mini-jeux Python. Chaque projet est contenu dans un seul dossier, pour montrer des mécaniques simples (logique de jeu, boucles, conditions, etc.). Réalisé pour le dossier Rubika.
+Le jeu se lance d'abord sur une page de "menu", celui ci laisse au joueur 5 choix, 4 choix de difficultés différents ou bien fermer le jeu à l'aide de la croix.
+Ensuite, lorsque le joueur choisis une difficulté, il va avoir accès à un niveau, il existe 6 niveaux et à la fin de chaque niveau on passe au suivant.
+En cliquant sur le bouton starter et donc en choisissant la difficulté 1, le joueur va commencer au premier niveau, s'il choisit junior il commencera au troisième niveau, s'il choisit expert au cinquième et s'il choisit master, au sixième.
+Le joueur n'a pas besoin de repasser par le menu afin de passer à la difficulté suivante, car les niveaux s'enchainent automatiquement.
+Mais le joueur ne peut pas revenir en arrière. Il doit donc repasser par le menu s'il le souhaite.
+En arrivant sur n'importe quel niveau, le joueur pourra le compléter en utilisant les flèches de son clavier, sur la droite du niveau, on remarque 4 symboles, le premier est une croix qui permet de fermer la fenêtre de jeu et donc de le quitter, le deuxième est un bouton permettant de réinitialisé le niveau, ce qui implique la remise en place des pièces. Le troisième est un bouton maison qui permet de retourner au menu, et le dernier est un icône des flèches du clavier qui permet de savoir sur quel bouton du clav58r numérique faut-il appuyer afin de sélectionner la bonne pièce à bouger. Ca ouvre donc une page avec tous les blocs différents et leur numéro attribués. La croix en haut à droite de la page permet de fermer celle ci et de revenir au niveau.
+Le deuxième défi que j'ai conçu est composé de 2 blocs fixes, un bloc rose de deux de longs et du virus.
+Afin de réussir ce niveau, il faut monter le bloc rose en haut à gauche de la grille puis faire passer le virus dans la partie basse de la grille. Ensuite on replace le bloc rose en haut à droite de la grille puis on fait s'échapper le virus.
